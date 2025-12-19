@@ -21,10 +21,10 @@ Terraform · Azure · Linux · CI/CD · Git · Docker · Kubernetes · ArgoCD ·
 ## 🚀 About Me
 
 <p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/devops.gif"
+  <img
+    src="https://learn.microsoft.com/en-us/azure/architecture/guide/architecture-styles/images/devops-cycle.png"
     width="420"
-    alt="DevOps Engineer Animation"
+    alt="DevOps Lifecycle"
   />
 </p>
 
