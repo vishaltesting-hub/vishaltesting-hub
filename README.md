@@ -51,7 +51,7 @@ Docker · Kubernetes · Helm · ArgoCD · Terraform · Azure · Linux · Git
 ## 🔄 DevOps Lifecycle
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourusername/main/devops.png" width="700"/>
+  <img src="https://raw.githubusercontent.com/ashleymcnamara/gophers/master/DEVOPS.gif" width="650"/>
 </p>
 
 ---
