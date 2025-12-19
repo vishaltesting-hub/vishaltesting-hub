@@ -22,7 +22,7 @@ Terraform · Azure · Linux · CI/CD · Git · Docker · Kubernetes · ArgoCD ·
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/cncf/artwork/main/projects/kubernetes/horizontal/color/kubernetes-horizontal-color.png"
+    src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*5XM77ae9J1fs8nxD.gif"
     width="380"
     alt="Kubernetes DevOps"
   />
