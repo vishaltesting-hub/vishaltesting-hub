@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Vishal Pandey</h1>
 
 <h3 align="center">
-Senior DevOps / SRE Engineer | Cloud · Kubernetes · Terraform · Automation
+DevOps Engineer | Cloud · Kubernetes · Terraform · Automation
 </h3>
 
 <p align="center">
