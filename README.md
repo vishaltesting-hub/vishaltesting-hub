@@ -5,11 +5,11 @@ DevOps Engineer | Cloud · Kubernetes · Terraform · Automation
 </h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=azure,terraform,linux,git,docker,kubernetes,githubactions" />
+  <img src="https://skillicons.dev/icons?i=azure,terraform,linux,git,docker,kubernetes,cicd,githubactions" />
 </p>
 
 <p align="center">
-Terraform · Azure · Linux · Git · Docker · Kubernetes · Helm · ArgoCD ·
+Terraform · Azure · Linux · CI/CD · Git · Docker · Kubernetes · ArgoCD · Helm ·
 </p>
 
 ---
