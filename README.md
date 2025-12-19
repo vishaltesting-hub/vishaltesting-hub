@@ -22,11 +22,12 @@ Terraform · Azure · Linux · CI/CD · Git · Docker · Kubernetes · ArgoCD ·
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/kubernetes/website/main/static/images/kubernetes-horizontal-color.png"
-    width="360"
+    src="https://raw.githubusercontent.com/cncf/artwork/main/projects/kubernetes/horizontal/color/kubernetes-horizontal-color.png"
+    width="380"
     alt="Kubernetes DevOps"
   />
 </p>
+
 
 
 - 🔹 8+ years of experience in DevOps & Cloud
