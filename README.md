@@ -1,27 +1,77 @@
 <h1 align="center">👋 Hi, I'm Vishal Pandey</h1>
 
 <h3 align="center">
-DevOps Engineer | Azure · Kubernetes · Terraform · CI/CD
+Senior DevOps / SRE Engineer | Cloud · Kubernetes · Terraform · Automation
 </h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,helm,terraform,azure,linux,git,argocd" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,helm,terraform,azure,linux,git,githubactions" />
 </p>
 
 <p align="center">
 Docker · Kubernetes · Helm · ArgoCD · Terraform · Azure · Linux · Git
 </p>
 
-<hr>
+---
+
+## 🚀 About Me
+
+- 🔹 8+ years of experience in DevOps & Cloud
+- 🔹 Strong expertise in **Azure, AKS, Terraform & CI/CD**
+- 🔹 Designing **scalable, secure & production-ready systems**
+- 🔹 Passionate about **DevSecOps & automation**
+
+---
+
+## 🛠️ Tech Stack
+
+### ☁️ Cloud & Infrastructure
+- Azure, AWS (basic)
+- Terraform (Modules, Remote Backend, State mgmt)
+- ARM / Bicep (basic)
+
+### ⚙️ DevOps & CI/CD
+- Azure DevOps Pipelines
+- GitHub Actions
+- Jenkins
+
+### ☸️ Containers & Kubernetes
+- Docker
+- Kubernetes (AKS)
+- Helm
+- ArgoCD (GitOps)
+
+### 🔐 Security & Monitoring
+- tfsec, Checkov, Trivy
+- Azure Monitor, Log Analytics
+- Prometheus, Grafana
+
+---
+
+## 🔄 DevOps Lifecycle
 
 <p align="center">
-  <img src="https://www.devopsschool.com/blog/wp-content/uploads/2022/03/DevOps-Infinity-Loop.png" width="700"/>
+  <img src="https://raw.githubusercontent.com/yourusername/yourusername/main/devops.png" width="700"/>
 </p>
 
-## 🚀 Profile Summary
+---
 
-- DevOps Engineer with hands-on Azure & AKS experience  
-- Infrastructure automation using Terraform  
-- CI/CD pipelines using Azure DevOps  
-- Kubernetes deployment & troubleshooting  
-- DevSecOps practices (tfsec, Trivy, Checkov)
+## 📂 Featured Repositories
+
+- 🚀 **Azure Terraform Landing Zone**
+- ☸️ **AKS Production Deployment**
+- 🔄 **Azure DevOps CI/CD Pipelines**
+- 🔐 **DevSecOps Pipeline with tfsec & Checkov**
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin"/>
+  </a>
+  <a href="mailto:your@email.com">
+    <img src="https://img.shields.io/badge/Email-red?logo=gmail"/>
+  </a>
+</p>
