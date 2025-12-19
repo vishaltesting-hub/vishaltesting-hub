@@ -68,10 +68,10 @@ Docker · Kubernetes · Helm · ArgoCD · Terraform · Azure · Linux · Git
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+  <a href="[https://www.linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/vishal-pandey-517b87362/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin"/>
   </a>
-  <a href="mailto:your@email.com">
+  <a href="mailto:vishalpandey231928@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?logo=gmail"/>
   </a>
 </p>
