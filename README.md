@@ -20,22 +20,19 @@ Terraform · Azure · Linux · CI/CD · Git · Docker · Kubernetes · ArgoCD ·
 
 ## 🚀 About Me
 
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/devops.gif"
+    width="420"
+    alt="DevOps Engineer Animation"
+  />
+</p>
+
+
 - 🔹 8+ years of experience in DevOps & Cloud
 - 🔹 Strong expertise in **Azure, AKS, Terraform & CI/CD**
 - 🔹 Designing **scalable, secure & production-ready systems**
 - 🔹 Passionate about **DevSecOps & automation**
-
-<p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/devicon/devicon-original.svg"
-    width="0" height="0" />
-  <img 
-    src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/devops.gif"
-    width="420"
-    alt="DevOps Animation"
-  />
-</p>
-
 
 ---
 
