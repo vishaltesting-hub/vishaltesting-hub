@@ -20,20 +20,19 @@ Terraform · Azure · Linux · CI/CD · Git · Docker · Kubernetes · ArgoCD ·
 
 ## 🚀 About Me
 
+<img
+  align="right"
+  src="https://raw.githubusercontent.com/cncf/artwork/main/projects/kubernetes/horizontal/color/kubernetes-horizontal-color.png"
+  width="280"
+  alt="Kubernetes DevOps"
+/>
 
-- 🔹 8+ years of experience in DevOps & Cloud
-- 🔹 Strong expertise in **Azure, AKS, Terraform & CI/CD**
-- 🔹 Designing **scalable, secure & production-ready systems**
+- 🔹 8+ years of experience in DevOps & Cloud  
+- 🔹 Strong expertise in **Azure, AKS, Terraform & CI/CD**  
+- 🔹 Designing **scalable, secure & production-ready systems**  
 - 🔹 Passionate about **DevSecOps & automation**
 
-  <img
-    align="right">
-    src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*5XM77ae9J1fs8nxD.gif"
-    width="400"
-    alt="Kubernetes DevOps"
-  />
-
-
+<br clear="right"/>
 
 ---
 
