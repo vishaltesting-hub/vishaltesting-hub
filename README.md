@@ -22,9 +22,9 @@ Terraform · Azure · Linux · CI/CD · Git · Docker · Kubernetes · ArgoCD ·
 
 <p align="center">
   <img
-    src="https://learn.microsoft.com/en-us/azure/architecture/guide/architecture-styles/images/devops-cycle.png"
-    width="420"
-    alt="DevOps Lifecycle"
+    src="https://raw.githubusercontent.com/kubernetes/website/main/static/images/kubernetes-horizontal-color.png"
+    width="360"
+    alt="Kubernetes DevOps"
   />
 </p>
 
