@@ -1,9 +1,5 @@
 <h1 align="center">👋 Hi, I'm Vishal Pandey</h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vishaltesting-hub&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
 <h3 align="center">
 DevOps Engineer | Cloud · Kubernetes · Terraform · Automation
 </h3>
@@ -14,6 +10,10 @@ DevOps Engineer | Cloud · Kubernetes · Terraform · Automation
 
 <p align="center">
 Terraform · Azure · Linux · CI/CD · Git · Docker · Kubernetes · ArgoCD · Helm ·
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vishaltesting-hub&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
