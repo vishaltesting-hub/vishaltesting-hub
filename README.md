@@ -32,7 +32,7 @@ Terraform · Azure · Linux · CI/CD · Git · Docker · Kubernetes · ArgoCD ·
     width="400"
     alt="Kubernetes DevOps"
   />
-</p>
+
 
 
 ---
