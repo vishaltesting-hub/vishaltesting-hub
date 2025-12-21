@@ -43,6 +43,15 @@ Terraform · Azure · Linux · CI/CD · Git · Docker · Kubernetes · ArgoCD ·
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishaltesting-hub&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="180"/>
 </p>
 
+---
+
+## 🔄 DevOps Lifecycle
+
+<p align="center">
+  <img src="https://appinventiv.com/wp-content/uploads/2024/05/hh.gif" width="650"/>
+</p>
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -67,13 +76,6 @@ Terraform · Azure · Linux · CI/CD · Git · Docker · Kubernetes · ArgoCD ·
 - Azure Monitor, Log Analytics
 - Prometheus, Grafana
 
----
-
-## 🔄 DevOps Lifecycle
-
-<p align="center">
-  <img src="https://appinventiv.com/wp-content/uploads/2024/05/hh.gif" width="650"/>
-</p>
 
 ---
 
