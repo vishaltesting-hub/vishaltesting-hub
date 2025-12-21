@@ -72,7 +72,7 @@ Terraform · Azure · Linux · CI/CD · Git · Docker · Kubernetes · ArgoCD ·
 ## 🔄 DevOps Lifecycle
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ashleymcnamara/gophers/master/DEVOPS.gif" width="650"/>
+  <img src="https://appinventiv.com/wp-content/uploads/2024/05/hh.gif" width="650"/>
 </p>
 
 ---
