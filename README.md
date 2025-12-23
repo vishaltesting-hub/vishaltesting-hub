@@ -39,8 +39,10 @@ Terraform · Azure · Linux · CI/CD · Git · Docker · Kubernetes · ArgoCD ·
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vishaltesting-hub&show_icons=true&theme=tokyonight"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishaltesting-hub&layout=compact&theme=tokyonight"/>
+  <img height="165"
+       src="https://github-readme-stats.vercel.app/api?username=vishaltesting-hub&show_icons=true&theme=tokyonight&cache_seconds=86400" />
+  <img height="165"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishaltesting-hub&layout=compact&theme=tokyonight&cache_seconds=86400" />
 </p>
 
 ---
