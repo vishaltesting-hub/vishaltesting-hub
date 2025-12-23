@@ -37,8 +37,6 @@ Terraform · Azure · Linux · CI/CD · Git · Docker · Kubernetes · ArgoCD ·
 ---
 
 ## 📊 GitHub Stats
-![Vishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishaltesting-hub&show_icons=true&theme=tokyonight&cache_seconds=1800)
-
 
 ---
 
