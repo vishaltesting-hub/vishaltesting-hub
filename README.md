@@ -36,15 +36,15 @@ Terraform · Azure · Linux · CI/CD · Git · Docker · Kubernetes · ArgoCD ·
 
 ---
 
-## 📊 GitHub Stats
-
----
-
 ## 🔄 DevOps Lifecycle
 
 <p align="center">
   <img src="https://appinventiv.com/wp-content/uploads/2024/05/hh.gif" width="650"/>
 </p>
+
+---
+
+## 📊 GitHub Stats
 
 ---
 
